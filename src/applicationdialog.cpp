@@ -1,3 +1,4 @@
+TEST:::COMPILATION ERROR
 /**
  * @licence app begin@
  * Copyright (C) 2011-2012  BMW AG
